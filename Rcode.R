@@ -1,7 +1,23 @@
+# /******************************************************************************
+#   ****************************************************************************** 
+#   ** 
+#   ** Copyright (c) 2020 VRVis Zentrum für Virtual Reality und Visualisierung
+# ** Forschungs-GmbH All rights reserved.
+# ** 
+#   ************************************************************ 
+#   ** 
+#   ** THIS IS PUBLISHED PROPRIETARY SOURCE CODE OF VRVis GmbH The copyright
+# ** notice above does not evidence any actual or intended publication of such
+# ** code.
+# ** 
+#   ******************************************************************************
+#   ******************************************************************************/
+#   
+#   // author: Florian Ganglberger <ganglberger@vrvis.at>
+
+
 library(geigen)
 library(MASS)
-
-
 
 ########################## GENERATE RANDOM DATA ###########################
 ############# YOU CAN IGNORE THIS IF YOU USE YOUR OWN DATA ################
